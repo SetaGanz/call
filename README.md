@@ -1,3 +1,5 @@
+#OPEN SOURCE
+
 # INSTALL BAHAN
      (pkg update && pkg upgrade
 
