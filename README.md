@@ -1,4 +1,5 @@
-#OPEN SOURCE
+# OPEN SOURCE
+ BOLEH DI RECODE TAPI HARGAI YANG BUAT YAH
 
 # INSTALL BAHAN
      (pkg update && pkg upgrade
